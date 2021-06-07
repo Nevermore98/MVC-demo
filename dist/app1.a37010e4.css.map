@@ -1,0 +1,1 @@
+{"version":3,"sources":["app1.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"app1.a37010e4.css","sourceRoot":"../src","sourcesContent":["#app1 {\n  border: 1px solid red;\n  width: 50vw;\n  height: 50vh;\n}\n"]}
